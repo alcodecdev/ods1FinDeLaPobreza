@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7f9b6b-7385-4ef0-8ec1-2c8c071711d2" name="Changes" comment="add carrusel" />
+    <list default="true" id="3a7f9b6b-7385-4ef0-8ec1-2c8c071711d2" name="Changes" comment="add xml worsplace">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,7 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/aleasegur/WebstormProjects/sostenibilidadBootstrap/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/aleasegur/WebstormProjects/TechStartup&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,7 +72,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28238.10" />
       </set>
     </attachedChunks>
   </component>
@@ -82,6 +85,9 @@
       <updated>1763642402381</updated>
       <workItem from="1763642403485" duration="1347000" />
       <workItem from="1763643772868" duration="212000" />
+      <workItem from="1763709678569" duration="39000" />
+      <workItem from="1763968901133" duration="19000" />
+      <workItem from="1764246283583" duration="2566000" />
     </task>
     <task id="LOCAL-00001" summary="add archivos html">
       <option name="closed" value="true" />
@@ -99,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763643978391</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add xml worsplace">
+      <option name="closed" value="true" />
+      <created>1763709719195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763709719195</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add archivos html" />
     <MESSAGE value="add carrusel" />
-    <option name="LAST_COMMIT_MESSAGE" value="add carrusel" />
+    <MESSAGE value="add xml worsplace" />
+    <option name="LAST_COMMIT_MESSAGE" value="add xml worsplace" />
   </component>
 </project>

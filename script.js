@@ -48,4 +48,36 @@ document.addEventListener('DOMContentLoaded', function() {
             // el JS se encarga de mostrar la alerta correcta dentro del colapso.
         });
     });
+
+    // 1. Obtener el elemento por su ID
+    const titulo = document.getElementById('tituloAnimado');
+
+    // Si el elemento no existe, detenemos el script para evitar errores
+    if (!titulo) return;
+
+    const intervaloMs = 750; // Frecuencia del parpadeo (0.75 segundos)
+
+    // Establecer el color inicial a Rojo (text-danger)
+    titulo.classList.add('text-danger');
+
+    // Iniciar el temporizador para la alternancia
+    setInterval(() => {
+        // Lógica de alternancia
+        if (titulo.classList.contains('text-danger')) {
+            // Actualmente es ROJO: Cambiar a BLANCO (text-white)
+            titulo.classList.remove('text-danger');
+            titulo.classList.add('text-white');
+
+            // Añadir fondo ROJO (bg-danger) para que el texto blanco sea visible contra el bg-light
+            titulo.classList.add('bg-danger');
+
+        } else {
+            // Actualmente es BLANCO: Cambiar a ROJO (text-danger)
+            titulo.classList.add('text-danger');
+
+            // Quitar el blanco y el fondo temporal
+            titulo.classList.remove('text-white', 'bg-danger');
+        }
+    }, intervaloMs);
+
 });

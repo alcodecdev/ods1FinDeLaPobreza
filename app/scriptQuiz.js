@@ -19,13 +19,13 @@ document.addEventListener("DOMContentLoaded", () => {
             if (opcion.dataset.correct === "true") {
                 opcion.classList.add("correcta");
                 feedback.classList.remove("d-none");
-                feedback.innerHTML = "✅ <strong>¡Correcto!</strong>";
+                feedback.innerHTML = "<strong>¡Correcto!</strong>";
                 feedback.classList.remove("alert-danger");
                 feedback.classList.add("alert", "alert-success");
             } else {
                 opcion.classList.add("incorrecta");
                 feedback.classList.remove("d-none");
-                feedback.innerHTML = "❌ <strong>Incorrecto.</strong>";
+                feedback.innerHTML = "<strong>Incorrecto.</strong>";
                 feedback.classList.remove("alert-success");
                 feedback.classList.add("alert", "alert-danger");
             }

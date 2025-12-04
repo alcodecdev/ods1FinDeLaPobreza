@@ -1,0 +1,27 @@
+.opcion {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.opcion:hover {
+    background: #f0f0f0;
+}
+
+.opcion.correcta {
+    background-color: #d4edda !important;
+    border-color: #28a745;
+}
+
+.opcion.incorrecta {
+    background-color: #f8d7da !important;
+    border-color: #dc3545;
+}
+
+#navLink:hover {
+    color: #616161;
+    transition: color 0.3s;
+}

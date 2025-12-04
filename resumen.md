@@ -149,11 +149,6 @@ text-white en los enlaces: asegura que los hipervínculos sean legibles.
 
 Función: mostrar fuentes, licencias y créditos de manera visible y uniforme.
 
-## 7.Tests
-Este es un cuestionario interactivo desarrollado con **HTML, Bootstrap 5** y **JavaScript** que evalúa el conocimiento sobre el Objetivo de Desarrollo Sostenible (ODS) número 1: Fin de la Pobreza.
-
-El test incluye una característica visual llamativa: el título principal parpadea alternando entre los colores rojo y blanco para captar la atención.
-## ⚙️ Implementación Técnica
 
 ### 1. Animación del Título (Parpadeo)
 
@@ -179,3 +174,27 @@ Este proyecto presenta tres aplicaciones destacadas que buscan reducir la pobrez
 
 3. **KoBoToolbox**  
    Herramienta usada por ONG y gobiernos para recopilar datos en zonas vulnerables. Facilita la toma de decisiones basada en información real, optimizando la distribución de recursos y ayudas sociales.
+
+## Secciones principales
+
+### 1. Quiz Interactivo
+- Se implementó un **quiz de preguntas sobre el ODS 1** utilizando **Bootstrap** y **JavaScript**.
+- Los usuarios pueden **responder directamente haciendo clic en las opciones**, sin necesidad de enviar un formulario.
+- Al seleccionar una opción, se muestra inmediatamente si la respuesta es **correcta o incorrecta**, con retroalimentación visual.
+- El quiz es **responsive** y utiliza un **acordeón (accordion)** para organizar las preguntas.
+
+### 2. Formulario de Propuestas Sostenibles
+- Se creó un **formulario Bootstrap** donde los usuarios pueden **proponer ideas sostenibles** relacionadas con el ODS 1.
+- Campos incluidos: **nombre, correo, descripción de la idea y categoría** (Tecnología, Educación, Economía solidaria, Medio ambiente).
+- Al enviar, se muestra un **mensaje de confirmación sin recargar la página**.
+- Se puede integrar con servicios como **EmailJS** o **Formspree** para enviar las ideas directamente a un correo electrónico.
+
+### 3. Fuentes de Información
+- Se añadió una sección de **fuentes confiables** usando **tarjetas de Bootstrap** (`card`) para un diseño visual atractivo.
+- Fuentes utilizadas:
+    - **ONU** – Objetivo de Desarrollo Sostenible 1: Fin de la pobreza.
+    - **Banco Mundial** – Datos y estadísticas sobre pobreza.
+    - **PNUD** – Información sobre pobreza y desarrollo humano.
+- Cada fuente incluye un **enlace directo** al sitio oficial.
+
+---

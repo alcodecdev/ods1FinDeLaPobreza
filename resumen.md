@@ -165,3 +165,17 @@ El título debe tener un `ID` para que JavaScript pueda manipularlo:
 
 ```html
 <h2 class="mb-4 text-center fw-bold" id="tituloAnimado">Test Rápido: ODS 1 - Fin de la Pobreza</h2>
+```
+
+### 8.Aplicaciones que contribuyen a la ODS1: Fin de la pobreza
+
+Este proyecto presenta tres aplicaciones destacadas que buscan reducir la pobreza y mejorar la calidad de vida de las personas en situación vulnerable:
+
+1. **ShareTheMeal**  
+   App de la ONU que permite donar comida con un clic. Cada donación alimenta a un niño durante un día y garantiza transparencia en el destino de las ayudas.
+
+2. **GiveDirectly**  
+   Plataforma que envía dinero directamente a personas en extrema pobreza, minimizando intermediarios y empoderando a los beneficiarios para decidir en qué gastar la ayuda.
+
+3. **KoBoToolbox**  
+   Herramienta usada por ONG y gobiernos para recopilar datos en zonas vulnerables. Facilita la toma de decisiones basada en información real, optimizando la distribución de recursos y ayudas sociales.

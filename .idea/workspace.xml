@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7f9b6b-7385-4ef0-8ec1-2c8c071711d2" name="Changes" comment="add ajuste del footer" />
+    <list default="true" id="3a7f9b6b-7385-4ef0-8ec1-2c8c071711d2" name="Changes" comment="change class in form" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +102,7 @@
       <workItem from="1764852091898" duration="660000" />
       <workItem from="1764864109818" duration="3618000" />
       <workItem from="1764867812071" duration="361000" />
+      <workItem from="1764876503467" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="add archivos html">
       <option name="closed" value="true" />
@@ -207,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764867985062</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="change class in form">
+      <option name="closed" value="true" />
+      <created>1764876759459</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764876759459</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +236,7 @@
     <MESSAGE value="cooregido en una etiqueta" />
     <MESSAGE value="add nueva estructura del proyecto para manipular y que sea interactiva" />
     <MESSAGE value="add ajuste del footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ajuste del footer" />
+    <MESSAGE value="change class in form" />
+    <option name="LAST_COMMIT_MESSAGE" value="change class in form" />
   </component>
 </project>
